@@ -1,4 +1,5 @@
 ![](https://github.com/Caden0002/DESIGNInteractiveForm/blob/main/projectPlanner.gif)
+
 #### How to Install and Run the Project ####
 1. Open Terminal at the project's CD<br />
 2. npm install<br />
